@@ -63,13 +63,3 @@ Training Complete!
    - `Δw = lr × (y_true - y_pred) × x`
    - `Δb = lr × (y_true - y_pred)`
 4. Training stops early if the perceptron achieves zero errors in an epoch.
-
-## What I Learned
-
-- How a perceptron makes predictions using the step activation function
-- The perceptron learning/update rule and why it works
-- Why linear separability matters and the limitation of single-layer perceptrons (XOR problem)
-- Structuring a Python project across multiple files
-
----
-*My first ML project — built from scratch!*
